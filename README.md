@@ -16,7 +16,8 @@
 <p> <b>1.</b> Exemples: <br><br>
 <img align="left" src="img/exemplo2.png" height="300px"><img align="right" src="img/exemplo.png">
 </p>
-
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<!-- <p align="left"> From</p><p align="right"> From</p> 
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
