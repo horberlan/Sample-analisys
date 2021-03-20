@@ -12,6 +12,17 @@
 
 <br><br><br><br>
 
+Clone & Install dependences:
+
+```Shell
+git clone https://github.com/horberlan/Sample-analisys.git
+
+cd Sample-analisys/
+
+pip3 install -r requirements.txt
+
+```
+
 
 ## Process
 <p align="center">
