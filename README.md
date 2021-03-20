@@ -9,17 +9,28 @@
 
 ## Objective
  <p align="justify"><img src="img/recurso.png" height="150px" align="left"> This project consists of developing a tool capable of schematizing a count of living cells, distinguishing from dead cells present in animal tissue samples, from images collected from lab.</p>
- 
-
 
 <br><br><br><br>
-<p> <b>1.</b> Exemples: <br><br>
-<img align="left" src="img/exemplo2.png" height="300px"><img align="right" src="img/exemplo.png">
+
+
+## Process
+<p align="center">
+ <img src="https://raw.githubusercontent.com/horberlan/Sample-analisys/da02bba67438a6b4d7dc27c420e300506aecacd7/img/diagram.svg" height="130px"> 
+</p>
+
+
+
+<p> <b>1.</b> Input images<br><br>
+ 
+<img align="left" src="img/e1.jpg" height="250px"><img align="right" src="img/e2.png" height="300px">
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<p> <b>2.</b> Output <br><br>
+ <img align="left" src="img/exemplo2.png" height="300px"><img align="right" src="img/exemplo.png">
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- <p align="left"> From</p><p align="right"> From</p> 
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
